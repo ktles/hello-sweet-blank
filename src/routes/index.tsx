@@ -10,7 +10,7 @@ export const Route = createFileRoute("/")({
 function Index() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-background">
-      <h1 className="text-4xl font-semibold text-foreground">Hello</h1>
+      <h1 className="text-4xl font-semibold text-foreground">Hello world</h1>
     </div>
   );
 }
